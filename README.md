@@ -5,7 +5,7 @@ Hi! My name is Michael Frank. I'm a student and aspiring developer. Currently, I
 I've developed several "complete" projects over the years, most of which I have ported over to GitHub for easy viewing. They can be viewed in my `Repositories` section.
 
 ### Current
-- (2021) Arcana, a text-based fighting game with a linear storyline. 
+- (2021) Arcana, a text-based fighting game with a linear storyline. Currently being built in Java.
 
 ### Past
 - (2018) [Breakout](https://breakout.michaelfrank.repl.co/), an implementation of Atari Breakout. Built with HTML, CSS, and JavaScript.

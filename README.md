@@ -1,8 +1,6 @@
 # About me
 Hi! My name is Michael Frank. I'm a student and aspiring developer. Currently, I'm entering my second year of studying computer science at Shippensburg University, and I plan on selecting a focus on either software engineering or cyber-security. At the moment I'm actively seeking out internship opportunities in the computer science field.
 
-[📑 Resume](https://mfrank.dev/docs/Resume.pdf?)
-
 # Table of Contents
 
 [📊 Projects](#Projects)
